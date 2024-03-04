@@ -1,5 +1,5 @@
-# file_parser
-Custom file-parser
+# Custom file-parser
+
 A custom file parser program for parsing the following formats: 
 • images ('JPEG', 'PNG', 'JPG', 'SVG');
 • video files ('AVI', 'MP4', 'MOV', 'MKV');
